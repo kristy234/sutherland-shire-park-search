@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Park Search</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.1.0-rc.0/css/select2.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.1.0-rc.0/js/select2.min.js"></script>
+</head>
+<body>
+    <h1>Sutherland Shire Park Search</h1>
+
+    <div class="filters-container">
+      <div class="filter-group">
+        <label for="suburb-filter" class="filter-label">Suburbs:</label>
+        <select id="suburb-filter" class="filter-select" multiple>
+          <!-- Suburbs options populated by javascript -->
+        </select>
+      </div>
+      <div class="filter-group">
+        <label for="facility-filter" class="filter-label">Facilities:</label>
+        <select id="facility-filter" class="filter-select" multiple>
+          <!-- Facilities options populated by javascript -->
+        </select>
+      </div>
+      <button id="search-button" class="search-button">Search</button>
+    </div>
+
+    <ul id="park-list"></ul>
+
+    <script src="script.js"></script>
+</body>
+</html>
