@@ -32,6 +32,33 @@ function populateFilters(parksData) {
     });
 }
 
+function prePopulateFiltersFromURL() {
+    const urlParams = new URLSearchParams(window.location.search);
+
+    const selectedFacilities = urlParams.get('facility').split(",");
+    const selectedSuburbs = urlParams.get('suburb').split(",");
+
+    const facilityFilter = document.getElementById(FILTER_FACILITY_ID);
+    const suburbFilter = document.getElementById(FILTER_SUBURB_ID);
+
+    selectedFacilities.forEach(facility => {
+        selectOptionByText(facility, facilityFilter);
+    });
+
+    selectedSuburbs.forEach(suburb => {
+        selectOptionByText(suburb, suburbFilter);
+    });
+}
+
+function selectOptionByText(text, selectElement) {
+    const options = Array.from(selectElement.options);
+
+    const option = options.find(option => option.textContent.toLowerCase() === text.toLowerCase());
+    if (option) {
+        option.selected = true;
+    }
+}
+
 function applyFilters(parksData) {
     const facilityFilter = document.getElementById(FILTER_FACILITY_ID);
     const suburbFilter = document.getElementById(FILTER_SUBURB_ID);
@@ -90,14 +117,31 @@ function applyFilters(parksData) {
     }
 }
 
-function fetchData() {
-    return fetch('parks.json')
-        .then(response => response.json())
-        .catch(error => console.error(error));
+function updateURLWithFilters() {
+    const facilityFilter = document.getElementById(FILTER_FACILITY_ID);
+    const suburbFilter = document.getElementById(FILTER_SUBURB_ID);
+
+    const selectedFacilities = Array.from(facilityFilter.selectedOptions).map(option => option.textContent);
+    const selectedSuburbs = Array.from(suburbFilter.selectedOptions).map(option => option.textContent);
+
+    const searchParams = new URLSearchParams(window.location.search);
+    searchParams.set('facility', selectedFacilities.join(','));
+    searchParams.set('suburb', selectedSuburbs.join(','));
+
+    const newURL = `${window.location.pathname}?${searchParams.toString()}`;
+    window.history.replaceState({}, '', newURL);
 }
 
-function fetchAndApply() {
-    fetchData().then(data => applyFilters(data));
+function fetchData() {
+    return fetch('parks.json')
+        .then(response => response.json());
+}
+
+function onUpdate() {
+    fetchData().then(data => {
+        applyFilters(data);
+        updateURLWithFilters();
+    });
 }
 
 document.addEventListener("DOMContentLoaded", function() {
@@ -105,12 +149,13 @@ document.addEventListener("DOMContentLoaded", function() {
 
     fetchData().then(data => {
         populateFilters(data);
+        prePopulateFiltersFromURL();
         applyFilters(data);
     });
 
     const searchButton = document.getElementById('search-button');
 
-    $('#' + FILTER_FACILITY_ID).on('change', fetchAndApply);
-    $('#' + FILTER_SUBURB_ID).on('change', fetchAndApply);
-    searchButton.addEventListener('click', fetchAndApply);
+    $('#' + FILTER_FACILITY_ID).on('change', onUpdate);
+    $('#' + FILTER_SUBURB_ID).on('change', onUpdate);
+    searchButton.addEventListener('click', onUpdate);
 });
