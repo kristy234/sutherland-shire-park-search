@@ -35,8 +35,11 @@ function populateFilters(parksData) {
 function prePopulateFiltersFromURL() {
     const urlParams = new URLSearchParams(window.location.search);
 
-    const selectedFacilities = urlParams.get('facility').split(",");
-    const selectedSuburbs = urlParams.get('suburb').split(",");
+    const selectedFacilitiesParam = urlParams.get('facility');
+    const selectedFacilities = selectedFacilitiesParam ? selectedFacilitiesParam.split(",") : [];
+
+    const selectedSuburbsParam = urlParams.get('suburb');
+    const selectedSuburbs = selectedSuburbsParam ? selectedSuburbsParam.split(",") : [];
 
     const facilityFilter = document.getElementById(FILTER_FACILITY_ID);
     const suburbFilter = document.getElementById(FILTER_SUBURB_ID);
