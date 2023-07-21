@@ -2,6 +2,9 @@
     {
         "park_name": "A R Hurst Reserve",
         "suburb": "Sylvania",
+        "park_address": "1 The Promenade, Sylvania",
+        "lat": -34.013158,
+        "lng": 151.089653,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/a-r-hurst-reserve",
         "facilities": [
             "Floodlights",
@@ -12,6 +15,9 @@
     {
         "park_name": "Akuna Avenue Reserve",
         "suburb": "Bangor",
+        "park_address": "46 Akuna Avenue, Bangor",
+        "lat": "",
+        "lng": "",
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/akuna-avenue-reserve-bangor",
         "facilities": [
             "Playground"
@@ -20,6 +26,9 @@
     {
         "park_name": "Albert Delardes Reserve",
         "suburb": "Illawong",
+        "park_address": "95R Griffin Parade, Illawong",
+        "lat": -33.9945161,
+        "lng": 151.0444374,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/albert-delardes-reserve-illawong",
         "facilities": [
             "Dogs on leash",
@@ -31,6 +40,9 @@
     {
         "park_name": "Albert Hutchinson Reserve",
         "suburb": "Sutherland",
+        "park_address": "1-7 Robertson Street, Sutherland",
+        "lat": -34.030417,
+        "lng": 151.05598800000007,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/albert-hutchinson-reserve-sutherland",
         "facilities": [
             "BBQ",
@@ -44,6 +56,9 @@
     {
         "park_name": "Alice Street Reserve",
         "suburb": "Jannali",
+        "park_address": "8 Alice Street, Jannali",
+        "lat": -34.018703,
+        "lng": 151.063638,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/alice-street-reserve-jannali",
         "facilities": [
             "Playground"
@@ -52,6 +67,9 @@
     {
         "park_name": "Allambie Avenue Reserve",
         "suburb": "Caringbah South",
+        "park_address": "8R Allambie Avenue, Caringbah South",
+        "lat": -34.05944,
+        "lng": 151.11611,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/allambie-avenue-reserve-caringbah",
         "facilities": [
             "Playground"
@@ -60,6 +78,9 @@
     {
         "park_name": "Anzac Oval",
         "suburb": "Engadine",
+        "park_address": "111R-113R Anzac Avenue, Engadine",
+        "lat": -34.05904,
+        "lng": 151.004812,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/sporting-facilities/template,-suburb257",
         "facilities": [
             "Floodlights",
@@ -74,6 +95,9 @@
     {
         "park_name": "Apsley Place Reserve",
         "suburb": "Taren Point",
+        "park_address": "9R Apsley Place, Taren Point",
+        "lat": -34.01995903123408,
+        "lng": 151.11838523077643,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/apsley-place-reserve-taren-point",
         "facilities": [
             "Dogs off-leash",
@@ -87,6 +111,9 @@
     {
         "park_name": "Austin Street Reserve",
         "suburb": "Illawong",
+        "park_address": "69R Austin Street, Illawong",
+        "lat": "",
+        "lng": "",
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/austin-street-reserve-illawong",
         "facilities": [
             "Playground"
@@ -95,6 +122,9 @@
     {
         "park_name": "Australia Road Bushland Reserve",
         "suburb": "Barden Ridge",
+        "park_address": "54 Australia Road, Barden Ridge",
+        "lat": -34.03004255953753,
+        "lng": 151.00918292999268,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/australia-road-reserve-barden-ridge",
         "facilities": [
             "Playground"
@@ -103,6 +133,9 @@
     {
         "park_name": "Ballar Avenue Reserve",
         "suburb": "Gymea",
+        "park_address": "22 Ballar Avenue, Gymea bay",
+        "lat": -34.045285,
+        "lng": 151.092782,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/ballar-avenue-reserve-gymea",
         "facilities": [
             "No dogs",
@@ -113,6 +146,9 @@
     {
         "park_name": "Barden Ridge Oval",
         "suburb": "Barden Ridge",
+        "park_address": "112-130 Old Illawarra Road, Barden ridge",
+        "lat": -34.0322451,
+        "lng": 151.00575030000005,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/sporting-facilities/httpssutherland-shire-council.matrix.squiz.cloudplay-and-explorethe-outdoorsall-parks-reservesBarden20Oval",
         "facilities": [
             "Floodlights",
@@ -124,6 +160,9 @@
     {
         "park_name": "Bass and Flinders Point",
         "suburb": "Cronulla",
+        "park_address": "156R Ewos Parade, Cronulla. Located at end of Gowrie Street, Cronulla.",
+        "lat": -34.07294,
+        "lng": 151.15353,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/bass-and-flinders-point-cronulla",
         "facilities": [
             "Bubbler",
@@ -134,6 +173,9 @@
     {
         "park_name": "Batavia Place Reserve",
         "suburb": "Illawong",
+        "park_address": "2 Batavia Place, Illawong",
+        "lat": -33.999497,
+        "lng": 151.03479600000003,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/batavia-place-reserve-illawong",
         "facilities": [
             "Playground"
@@ -142,6 +184,9 @@
     {
         "park_name": "Beauford Park",
         "suburb": "Caringbah South",
+        "park_address": "11R Beauford Avenue, Caringbah South",
+        "lat": -34.05969,
+        "lng": 151.1109,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/beauford-park-caringbah",
         "facilities": [
             "Bubbler",
@@ -153,6 +198,9 @@
     {
         "park_name": "Beaumaris Drive Reserve",
         "suburb": "Menai",
+        "park_address": "25-29 Beaumaris Drive, Menai",
+        "lat": -34.00717953365229,
+        "lng": 151.0163927078247,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/beaumaris-drive-reserve-menai",
         "facilities": [
             "Playground",
@@ -162,6 +210,9 @@
     {
         "park_name": "Berrima Street Reserve",
         "suburb": "Heathcote",
+        "park_address": "5-7 Berrima StreetHeathcote",
+        "lat": -34.08141,
+        "lng": 151.00307,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/berrima-street-reserve-heathcote",
         "facilities": [
             "Parking",
@@ -174,6 +225,9 @@
     {
         "park_name": "Betham Place Reserve",
         "suburb": "Kirrawee",
+        "park_address": "1 Betham Pl, Kirrawee",
+        "lat": -34.042646,
+        "lng": 151.069309,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/betham-place-reserve-kirrawee",
         "facilities": [
             "Playground"
@@ -182,6 +236,9 @@
     {
         "park_name": "Binaville Avenue Reserve",
         "suburb": "Burraneer",
+        "park_address": "9 Binaville Ave, Burraneer",
+        "lat": -34.067786,
+        "lng": 151.139639,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/binaville-avenue-reserve-burraneer",
         "facilities": [
             "Playground"
@@ -190,6 +247,9 @@
     {
         "park_name": "Blaxland Drive Reserve",
         "suburb": "Illawong",
+        "park_address": "1/17 Blaxland Dr, Illawong",
+        "lat": -34.0038505,
+        "lng": 151.0290111,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/blaxland-drive-reserve-illawong",
         "facilities": [
             "Floodlights",
@@ -201,6 +261,9 @@
     {
         "park_name": "Bombora Avenue Reserve",
         "suburb": "Bundeena",
+        "park_address": "1 Bombora Ave, Bundeena",
+        "lat": -34.088104,
+        "lng": 151.15589599999998,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/bombora-avenue-reserve-bundeena",
         "facilities": [
             "Playground"
@@ -209,6 +272,9 @@
     {
         "park_name": "Bonna Point Reserve",
         "suburb": "Kurnell",
+        "park_address": "Bonna Point Reserve, Kurnell",
+        "lat": -34.0085363,
+        "lng": 151.1934886,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/skate-parks/bonna-point-reserve-kurnell",
         "facilities": [
             "Bubbler",
@@ -224,6 +290,9 @@
     {
         "park_name": "Bonnet Bay Reserve",
         "suburb": "Bonnet Bay",
+        "park_address": "197A Washington Dr, Bonnet bay",
+        "lat": -34.014336,
+        "lng": 151.050794,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/bonnet-bay-reserve-bonnet-bay",
         "facilities": [
             "BBQ",
@@ -233,6 +302,9 @@
     {
         "park_name": "Bonnie View Street Reserve",
         "suburb": "Burraneer",
+        "park_address": "8 Bonnie View Street, Burraneer",
+        "lat": -34.0563197,
+        "lng": 151.1396213,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/bonnie-view-street-reserve-burraneer",
         "facilities": [
             "Playground"
@@ -241,6 +313,9 @@
     {
         "park_name": "Boronia Grove Reserve",
         "suburb": "Heathcote",
+        "park_address": "46 Boronia Grove, Heathcote",
+        "lat": -34.08709899999999,
+        "lng": 151.011516,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/boronia-grove-reserve-heathcote",
         "facilities": [
             "Playground"
@@ -249,6 +324,9 @@
     {
         "park_name": "Bowie Park",
         "suburb": "Kirrawee",
+        "park_address": "2 Hotham Road, Kirrawee",
+        "lat": -34.027123,
+        "lng": 151.082278,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/bowie-park-kirrawee",
         "facilities": [
             "Playground"
@@ -257,6 +335,9 @@
     {
         "park_name": "Breen Park (Glenn McGrath Oval)",
         "suburb": "Caringbah",
+        "park_address": "194/214 Willarong Rd, Caringbah",
+        "lat": -34.045215,
+        "lng": 151.118745,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/breen-park-glen-mcgrath-oval",
         "facilities": [
             "Dogs on leash",
@@ -270,6 +351,9 @@
     {
         "park_name": "Brigalow Place Reserve",
         "suburb": "Engadine",
+        "park_address": "7 Brigalow Place, Engadine",
+        "lat": -34.045845,
+        "lng": 151.032057,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/brigalow-place-reserve-engadine",
         "facilities": [
             "Bubbler",
@@ -280,6 +364,9 @@
     {
         "park_name": "Browallia Crescent Reserve",
         "suburb": "Loftus",
+        "park_address": "24 Browallia Crescent, Loftus",
+        "lat": -34.047417,
+        "lng": 151.045267,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/browallia-crescent-reserve-loftus",
         "facilities": [
             "Playground"
@@ -288,6 +375,9 @@
     {
         "park_name": "Bundeena Memorial Reserve",
         "suburb": "Bundeena",
+        "park_address": "75 Loftus Street, Bundeena",
+        "lat": -34.08353,
+        "lng": 151.15175,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/bundeena-reserve-bundeena",
         "facilities": [
             "Parking",
@@ -297,6 +387,9 @@
     {
         "park_name": "Burnum Burnum Sanctuary",
         "suburb": "Woronora",
+        "park_address": "6 Prince Edward Park Rd, Woronora",
+        "lat": -34.021104,
+        "lng": 151.051106,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/burnum-burnum-sanctuary-woronora",
         "facilities": [
             "BBQ",
@@ -313,6 +406,9 @@
     {
         "park_name": "Burraneer Park",
         "suburb": "Burraneer",
+        "park_address": "74 Dominic St, Burraneer",
+        "lat": -34.055197,
+        "lng": 151.134477,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/burraneer-park-burraneer",
         "facilities": [
             "Bubbler",
@@ -323,6 +419,9 @@
     {
         "park_name": "Cambrai Avenue Reserve",
         "suburb": "Engadine",
+        "park_address": "39 Cambrai Ave, Engadine",
+        "lat": -34.059422,
+        "lng": 151.012974,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/cambrai-avenue-reserve-engadine",
         "facilities": [
             "Playground"
@@ -331,6 +430,9 @@
     {
         "park_name": "Canberra Road Oval",
         "suburb": "Sylvania",
+        "park_address": "18-26 Canberra Road, Sylvania",
+        "lat": -34.0111339,
+        "lng": 151.108674,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/canberra-road-oval",
         "facilities": [
             "Floodlights",
@@ -342,6 +444,9 @@
     {
         "park_name": "Canberra Road Reserve",
         "suburb": "Sylvania",
+        "park_address": "18-34 Canberra Rd, Sylvania",
+        "lat": -34.011807,
+        "lng": 151.108399,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/canberra-road-reserve-sylvania",
         "facilities": [
             "Dogs on leash",
@@ -355,6 +460,9 @@
     {
         "park_name": "Carina Bay Horse Arena",
         "suburb": "Como",
+        "park_address": "22 Tivoli Esp, Como",
+        "lat": "",
+        "lng": "",
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/carina-bay-horse-arena-como",
         "facilities": [
             "Parking"
@@ -363,6 +471,9 @@
     {
         "park_name": "Carol Avenue Reserve",
         "suburb": "Jannali",
+        "park_address": "105 Soldiers Rd, Jannali",
+        "lat": -34.017219,
+        "lng": 151.060934,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/carol-avenue-reserve",
         "facilities": [
             "Oval / sports facility",
@@ -372,6 +483,9 @@
     {
         "park_name": "Cassandra Crescent Reserve",
         "suburb": "Heathcote",
+        "park_address": "33 Cassandra Crescent, Heathcote",
+        "lat": -34.0808418,
+        "lng": 151.0050817,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/cassandra-crescent-heathcote",
         "facilities": [
             "Parking",
@@ -383,6 +497,9 @@
     {
         "park_name": "Castelnau Street Reserve",
         "suburb": "Caringbah South",
+        "park_address": "2-14 Castelnau Street, Caringbah South",
+        "lat": -34.052388,
+        "lng": 151.121239,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/castelnau-street-reserve-caringbah-south",
         "facilities": [
             "Bubbler",
@@ -396,6 +513,9 @@
     {
         "park_name": "Casuarina Road Oval",
         "suburb": "Alfords Point",
+        "park_address": "71 Casuarina Rd, Alfords Point",
+        "lat": -33.9821511,
+        "lng": 151.0243232,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/casuarina-road-reserve-alfords-point",
         "facilities": [
             "Dogs on leash",
@@ -410,6 +530,9 @@
     {
         "park_name": "Casuarina Road Reserve",
         "suburb": "Gymea Bay",
+        "park_address": "2 Casuarina Road, Gymea bay",
+        "lat": -34.0524731,
+        "lng": 151.0878958,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/casuarina-road-reserve-gymea-bay",
         "facilities": [
             "Playground"
@@ -418,6 +541,9 @@
     {
         "park_name": "Central Avenue Reserve",
         "suburb": "Como",
+        "park_address": "37 Como Parade, Como",
+        "lat": -33.998193,
+        "lng": 151.066614,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/central-avenue-reserve-como",
         "facilities": [
             "Playground"
@@ -426,6 +552,9 @@
     {
         "park_name": "Charles Orwin Reserve",
         "suburb": "Jannali",
+        "park_address": "2 Davey Street, Jannali",
+        "lat": -34.015575,
+        "lng": 151.071493,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/charles-orwin-reserve-jannali",
         "facilities": [
             "Dogs on leash",
@@ -438,6 +567,9 @@
     {
         "park_name": "Clio Street Reserve",
         "suburb": "Sutherland",
+        "park_address": "21/23 Clio St, Sutherland",
+        "lat": -34.028022,
+        "lng": 151.061562,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/clio-street-reserve-sutherland",
         "facilities": [
             "Playground"
@@ -446,6 +578,9 @@
     {
         "park_name": "Coachwood Drive Oval",
         "suburb": "Alfords Point",
+        "park_address": "48 Coachwood Crescent, Alfords Point",
+        "lat": -33.993466,
+        "lng": 151.022206,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/coachwood-drive-oval-alfords-point",
         "facilities": [
             "No dogs",
@@ -459,6 +594,9 @@
     {
         "park_name": "Como Pleasure Grounds",
         "suburb": "Como",
+        "park_address": "2A Cremona Rd, Como",
+        "lat": -33.99741156712292,
+        "lng": 151.0687091713849,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/como-pleasure-grounds-como",
         "facilities": [
             "BBQ",
@@ -473,6 +611,9 @@
     {
         "park_name": "Coonong Creek Reserve",
         "suburb": "Gymea Bay",
+        "park_address": "250 Gymea Bay Rd, Gymea bay",
+        "lat": -34.048119,
+        "lng": 151.086588,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/coonong-creek-reserve",
         "facilities": [
             "Dogs on leash"
@@ -481,6 +622,9 @@
     {
         "park_name": "Cooper Street Reserve",
         "suburb": "Engadine",
+        "park_address": "1148 Old Princes Hwy, Engadine",
+        "lat": -34.0728135,
+        "lng": 151.0099483,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/skate-parks/cooper-street-reserve-engadine",
         "facilities": [
             "BBQ",
@@ -496,6 +640,9 @@
     {
         "park_name": "Corea Street Oval",
         "suburb": "Miranda",
+        "park_address": "244 Box Road, Miranda",
+        "lat": -34.0212904,
+        "lng": 151.1000469,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/corea-street-oval-miranda",
         "facilities": [
             "Bubbler",
@@ -513,6 +660,9 @@
     {
         "park_name": "Crammond Boulevarde Reserve",
         "suburb": "Caringbah",
+        "park_address": "73/75 Crammond Blvd, Caringbah",
+        "lat": -34.031384,
+        "lng": 151.123007,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/crammond-boulevarde-reserve-caringbah",
         "facilities": [
             "Playground"
@@ -521,6 +671,9 @@
     {
         "park_name": "Cronulla Park",
         "suburb": "Cronulla",
+        "park_address": "20/38 Gerrale Street, Cronulla",
+        "lat": -34.05528,
+        "lng": 151.15395,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/cronulla-park-cronulla",
         "facilities": [
             "Bubbler",
@@ -534,6 +687,9 @@
     {
         "park_name": "Croston Road Reserve",
         "suburb": "Engadine",
+        "park_address": "1 Gamut Road, Engadine",
+        "lat": -34.041694,
+        "lng": 151.033994,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/croston-road-reserve-engadine",
         "facilities": [
             "Playground"
@@ -542,6 +698,9 @@
     {
         "park_name": "Dernancourt Reserve",
         "suburb": "Engadine",
+        "park_address": "38 Anzac Ave, Engadine",
+        "lat": -34.061994,
+        "lng": 151.013575,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/dernacourt-reserve-engadine",
         "facilities": [
             "Playground"
@@ -550,6 +709,9 @@
     {
         "park_name": "Dianella Street Reserve",
         "suburb": "Caringbah",
+        "park_address": "125 Dianella Street, Caringbah",
+        "lat": -34.0378519,
+        "lng": 151.1225909,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/dianella-street-reserve-caringbah",
         "facilities": [
             "Bubbler",
@@ -561,6 +723,9 @@
     {
         "park_name": "Dobell Road Reserve",
         "suburb": "Engadine",
+        "park_address": "4-10 Dobell Road, Engadine",
+        "lat": -34.0592191,
+        "lng": 151.0196676,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/dobell-road-reserve-engadine",
         "facilities": [
             "BBQ",
@@ -575,6 +740,9 @@
     {
         "park_name": "Don Lucas Reserve",
         "suburb": "Cronulla",
+        "park_address": "1R-17R Mitchell Road, Cronulla",
+        "lat": -34.0237676,
+        "lng": 151.113622,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/don-lucas-reserve-cronulla",
         "facilities": [
             "Basketball",
@@ -590,6 +758,9 @@
     {
         "park_name": "Dunningham Park",
         "suburb": "Cronulla",
+        "park_address": "Cnr Eloura Road and the Kingsway, Cronulla",
+        "lat": -34.05106496022411,
+        "lng": 151.15527402696318,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/dunningham-park-cronulla",
         "facilities": [
             "Bubbler",
@@ -602,6 +773,9 @@
     {
         "park_name": "Eltham Place Reserve",
         "suburb": "Heathcote",
+        "park_address": "19 Woodford Crescent, Heathcote",
+        "lat": -34.087096,
+        "lng": 151.016892,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/eltham-place-reserve-heathcote",
         "facilities": [
             "Playground"
@@ -610,6 +784,9 @@
     {
         "park_name": "Engadine Town Park",
         "suburb": "Engadine",
+        "park_address": "1058-1062 Old Princes Highway, Engadine",
+        "lat": -34.066526,
+        "lng": 151.012331,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/engadine-town-park-engadine",
         "facilities": [
             "Dogs on leash",
@@ -621,6 +798,9 @@
     {
         "park_name": "Esplanade Foreshore Reserve",
         "suburb": "Sylvania",
+        "park_address": "1R The Esplanade, Sylvania",
+        "lat": -34.00704,
+        "lng": 151.09203,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/esplanade-foreshore-reserve,-sylvania",
         "facilities": [
             "Dogs on leash",
@@ -631,6 +811,9 @@
     {
         "park_name": "Fenton Avenue Reserve",
         "suburb": "Caringbah",
+        "park_address": "13B Carabella Rd, Caringbah",
+        "lat": -34.037829,
+        "lng": 151.130378,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/fenton-avenue-reserve-caringbah",
         "facilities": [
             "Playground"
@@ -639,6 +822,9 @@
     {
         "park_name": "Fern Circuit Reserve",
         "suburb": "Menai",
+        "park_address": "24 Fern Circuit West, Menai",
+        "lat": -34.01966600000001,
+        "lng": 151.016679,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/fern-circuit-reserve-menai",
         "facilities": [
             "Playground"
@@ -647,6 +833,9 @@
     {
         "park_name": "Ferntree Reserve",
         "suburb": "Engadine",
+        "park_address": "22 Ferntree Road, Engadine",
+        "lat": -34.0612739,
+        "lng": 151.0019185,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/ferntree-reserve-engadine",
         "facilities": [
             "Dogs on leash",
@@ -662,6 +851,9 @@
     {
         "park_name": "Flora Street Reserve",
         "suburb": "Kirrawee",
+        "park_address": "71R-73R Flora Street, Sutherland",
+        "lat": -34.03292,
+        "lng": 151.068121,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/flora-street-reserve-kirrawee",
         "facilities": [
             "Fenced",
@@ -671,6 +863,9 @@
     {
         "park_name": "Forshaw Rugby Park",
         "suburb": "Sylvania Waters",
+        "park_address": "223B Belgrave Esplanade, Sylvania waters",
+        "lat": -34.024568,
+        "lng": 151.110944,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/sporting-facilities/httpssutherland-shire-council.matrix.squiz.cloudplay-and-explorethe-outdoorsall-parks-reservesForshaw20Park",
         "facilities": [
             "Oval / sports facility",
@@ -681,6 +876,9 @@
     {
         "park_name": "Freya Street Reserve",
         "suburb": "Kareela",
+        "park_address": "20R Freya Street, Kareela",
+        "lat": -34.0165864,
+        "lng": 151.0823571,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/freya-street-reserve-kareela",
         "facilities": [
             "No dogs",
@@ -692,6 +890,9 @@
     {
         "park_name": "Friendship Place Reserve",
         "suburb": "Illawong",
+        "park_address": "39 Osprey Dr, Illawong",
+        "lat": -34.0016372,
+        "lng": 151.0359085,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/friendship-place-reserve-illawong",
         "facilities": [
             "No dogs",
@@ -703,6 +904,9 @@
     {
         "park_name": "Glencoe Street Reserve",
         "suburb": "Sutherland",
+        "park_address": "524 President Ave, Sutherland",
+        "lat": -34.0346796,
+        "lng": 151.0632534,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/glencoe-street-reserve-sutherland",
         "facilities": [
             "Bubbler",
@@ -717,6 +921,9 @@
     {
         "park_name": "Gray Street Reserve",
         "suburb": "Sutherland",
+        "park_address": "12-16 Gray Street, Sutherland",
+        "lat": -34.035039,
+        "lng": 151.05709,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/gray-street-reserve-sutherland",
         "facilities": [
             "Playground"
@@ -725,6 +932,9 @@
     {
         "park_name": "Green Point Reserve",
         "suburb": "Oyster Bay",
+        "park_address": "87 Green Point Rd, Oyster bay",
+        "lat": -34.001396,
+        "lng": 151.074128,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/green-point-reserve-oyster-bay",
         "facilities": [
             "Bubbler",
@@ -736,6 +946,9 @@
     {
         "park_name": "Gudyimburr Park",
         "suburb": "Miranda",
+        "park_address": "21 University Road, Miranda",
+        "lat": "",
+        "lng": "",
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/gudyimburr-park",
         "facilities": [
             "Fenced"
@@ -744,6 +957,9 @@
     {
         "park_name": "Gunnamatta Park",
         "suburb": "Cronulla",
+        "park_address": "39/41R Nicholson Parade, Cronulla",
+        "lat": -34.059298,
+        "lng": 151.14968699999997,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/gunnamatta-park-cronulla",
         "facilities": [
             "BBQ",
@@ -760,6 +976,9 @@
     {
         "park_name": "Gwawley Park",
         "suburb": "Taren Point",
+        "park_address": "133-139 Taren Point Road, Taren point",
+        "lat": -34.020764,
+        "lng": 151.120764,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/gwawley-park",
         "facilities": [
             "Floodlights",
@@ -771,6 +990,9 @@
     {
         "park_name": "Gymea Community Centre Playground",
         "suburb": "Gymea",
+        "park_address": "31-33 Gymea Bay Road, Gymea",
+        "lat": -34.03409,
+        "lng": 151.08459,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/hagger-park,-woolooware",
         "facilities": [
             "Bubbler",
@@ -784,6 +1006,9 @@
     {
         "park_name": "Hagger Park",
         "suburb": "Woolooware",
+        "park_address": "14/20 Denman Ave, Woolooware",
+        "lat": -34.0470561,
+        "lng": 151.1440073,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/hagger-park-woolooware",
         "facilities": [
             "Bubbler",
@@ -796,6 +1021,9 @@
     {
         "park_name": "Hawkesbury Park",
         "suburb": "Sylvania Waters",
+        "park_address": "1 Moruya Ave, Sylvania Waters",
+        "lat": -34.016033,
+        "lng": 151.119076,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/hawkesbury-park-sylvania-waters",
         "facilities": [
             "Boat ramp",
@@ -807,6 +1035,9 @@
     {
         "park_name": "Heathcote Sesquicentenary Park",
         "suburb": "Heathcote",
+        "park_address": "37R-39R Bottle Forest Road, Heathcote",
+        "lat": -34.0840033,
+        "lng": 151.0141452,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/heathcote-sesquicentenary-park-heathcote",
         "facilities": [
             "Playground"
@@ -815,6 +1046,9 @@
     {
         "park_name": "Heathcote Sports Complex",
         "suburb": "Heathcote",
+        "park_address": "Bottle Forest Rd, Heathcote",
+        "lat": -34.0851761,
+        "lng": 151.0152795,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/sporting-facilities/httpssutherland-shire-council.matrix.squiz.cloudplay-and-explorethe-outdoorsall-parks-reservesHeathcote20Ground",
         "facilities": [
             "Floodlights",
@@ -826,6 +1060,9 @@
     {
         "park_name": "Henry Lawson Reserve",
         "suburb": "Como",
+        "park_address": "24-26 Wolger Street, Como",
+        "lat": -34.0017975,
+        "lng": 151.0620586,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/henry-lawson-reserve-como",
         "facilities": [
             "Bubbler",
@@ -838,6 +1075,9 @@
     {
         "park_name": "Heritage Drive Oval",
         "suburb": "Illawong",
+        "park_address": "21 Heritage Dr, Illawong",
+        "lat": -33.9964219,
+        "lng": 151.0338868,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/heritage-drive-reserve-illawong",
         "facilities": [
             "Bubbler",
@@ -851,6 +1091,9 @@
     {
         "park_name": "Holmlea Place Reserve",
         "suburb": "Engadine",
+        "park_address": "2/40 Holmlea Pl, Engadine",
+        "lat": -34.0503314,
+        "lng": 151.0064925,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/holmlea-place-reserve-engadine",
         "facilities": [
             "Playground"
@@ -859,6 +1102,9 @@
     {
         "park_name": "Hungry Point Reserve",
         "suburb": "Cronulla",
+        "park_address": "196 - 202 Nicholson Parade, Cronulla",
+        "lat": -34.0728372,
+        "lng": 151.1485988,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/hungry-point-reserve",
         "facilities": [
             "Parking",
@@ -868,6 +1114,9 @@
     {
         "park_name": "Jackson Close Reserve",
         "suburb": "Menai",
+        "park_address": "",
+        "lat": -34.017041033546505,
+        "lng": 151.00737167893848,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/jackson-close-reserve",
         "facilities": [
             "Bubbler",
@@ -879,6 +1128,9 @@
     {
         "park_name": "Jason Street Reserve",
         "suburb": "Miranda",
+        "park_address": "64R-74R Jason Street, Miranda",
+        "lat": -34.025044,
+        "lng": 151.097034,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/jason-street-reserve-miranda",
         "facilities": [
             "Dogs on leash",
@@ -891,6 +1143,9 @@
     {
         "park_name": "Jelba Reserve",
         "suburb": "Bangor",
+        "park_address": "11 Jamberoo Pl, Bangor",
+        "lat": -34.01479978549181,
+        "lng": 151.04100175450765,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/jelba-reserve-bangor",
         "facilities": [
             "Playground"
@@ -899,6 +1154,9 @@
     {
         "park_name": "John Weir Reserve",
         "suburb": "Kurnell",
+        "park_address": "2-4 Torres Street, Kurnell",
+        "lat": -34.0111246,
+        "lng": 151.2100203,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/john-weir-reserve-kurnell",
         "facilities": [
             "Shade"
@@ -907,6 +1165,9 @@
     {
         "park_name": "Kalang Lane Reserve",
         "suburb": "Yowie Bay",
+        "park_address": "6A Wonga Rd, Yowie bay",
+        "lat": -34.048262,
+        "lng": 151.10675,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/kalang-lane-reserve-yowie-bay",
         "facilities": [
             "Exercise equipment",
@@ -921,6 +1182,9 @@
     {
         "park_name": "Kalkada Avenue Reserve",
         "suburb": "Gymea",
+        "park_address": "Kalkada Ave, Gymea",
+        "lat": -34.0492072,
+        "lng": 151.0852678,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/kalkada-avenue-reserve-gymea",
         "facilities": [
             "Playground"
@@ -929,6 +1193,9 @@
     {
         "park_name": "Karda Place Reserve",
         "suburb": "Gymea",
+        "park_address": "1 Karda Pl, Gymea",
+        "lat": -34.028186,
+        "lng": 151.089244,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/karda-place-reserve-gymea",
         "facilities": [
             "Playground"
@@ -937,6 +1204,9 @@
     {
         "park_name": "Kareela Sporting Complex",
         "suburb": "Kareela",
+        "park_address": "421 Princes Highway , Kareela",
+        "lat": -34.024388,
+        "lng": 151.087553,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/sporting-facilities/httpssutherland-shire-council.matrix.squiz.cloudplay-and-explorethe-outdoorsall-parks-reservesKareela20-20and20Fields",
         "facilities": [
             "Fenced",
@@ -949,6 +1219,9 @@
     {
         "park_name": "Konrads Place Reserve",
         "suburb": "Menai",
+        "park_address": "119 Hall Dr, Menai",
+        "lat": -34.021773,
+        "lng": 151.004824,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/konrads-place-reserve-menai",
         "facilities": [
             "Playground"
@@ -957,6 +1230,9 @@
     {
         "park_name": "Koolangarra Reserve",
         "suburb": "Bonnet Bay",
+        "park_address": "15 Kennedy Crescent, Bonnet Bay",
+        "lat": -34.009688,
+        "lng": 151.056153,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/koolangarra-reserve-bonnet-bay",
         "facilities": [
             "Bubbler",
@@ -969,6 +1245,9 @@
     {
         "park_name": "Lakewood City Reserve",
         "suburb": "Bonnet Bay",
+        "park_address": "5 Coolidge Crescent, Bonnet bay",
+        "lat": -34.008303,
+        "lng": 151.049003,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/lakewood-city-reserve-bonnet-bay",
         "facilities": [
             "BBQ",
@@ -983,6 +1262,9 @@
     {
         "park_name": "Lantana Road Reserve",
         "suburb": "Engadine",
+        "park_address": "183 Kingswood Rd, Engadine",
+        "lat": -34.052085,
+        "lng": 151.018155,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/lantana-road-reserve-engadine",
         "facilities": [
             "BBQ",
@@ -998,6 +1280,9 @@
     {
         "park_name": "Len Waters Park",
         "suburb": "Barden Ridge",
+        "park_address": "32R Timbrey Circuit, Barden Ridge",
+        "lat": -34.0274701,
+        "lng": 151.0039569,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/timbrey-circuit-playground-barden-ridge",
         "facilities": [
             "Parking",
@@ -1008,6 +1293,9 @@
     {
         "park_name": "Lilli Pilli Point Reserve",
         "suburb": "Lilli Pilli",
+        "park_address": "46R North East Crescent, Lilli Pilli",
+        "lat": -34.07208,
+        "lng": 151.1117,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/lilli-pilli-point-reserve-lilli-pilli",
         "facilities": [
             "Gardens",
@@ -1018,6 +1306,9 @@
     {
         "park_name": "Loftus Reserve",
         "suburb": "Loftus",
+        "park_address": "119-129 Loftus Ave, Loftus",
+        "lat": -34.046474,
+        "lng": 151.050566,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/loftus-reserve-loftus",
         "facilities": [
             "Parking",
@@ -1029,6 +1320,9 @@
     {
         "park_name": "Mansion Point Park",
         "suburb": "Grays Point",
+        "park_address": "Kingfisher Crescent, Grays point",
+        "lat": -34.0587859,
+        "lng": 151.0880564,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/mansion-point-park-grays-point",
         "facilities": [
             "Playground",
@@ -1038,6 +1332,9 @@
     {
         "park_name": "Marton Park",
         "suburb": "Kurnell",
+        "park_address": "Marton Park, Kurnell",
+        "lat": -34.010151,
+        "lng": 151.210795,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/marton-park-kurnell",
         "facilities": [
             "BBQ",
@@ -1054,6 +1351,9 @@
     {
         "park_name": "Meldrum Reserve",
         "suburb": "Miranda",
+        "park_address": "10R Meldrum Ave, Miranda",
+        "lat": -34.028608,
+        "lng": 151.110374,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/meldrum-reserve-miranda",
         "facilities": [
             "Playground"
@@ -1062,6 +1362,9 @@
     {
         "park_name": "Mirrabook Place Reserve",
         "suburb": "Heathcote",
+        "park_address": "17 Mirrabook Place, Heathcote",
+        "lat": -34.084535,
+        "lng": 151.004766,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/mirrabook-place-reserve-heathcote",
         "facilities": [
             "Playground"
@@ -1070,6 +1373,9 @@
     {
         "park_name": "Mulberry Street Reserve",
         "suburb": "Loftus",
+        "park_address": "24 Mulberry St, Loftus",
+        "lat": -34.048944,
+        "lng": 151.040417,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/mulberry-street-reserve-loftus",
         "facilities": [
             "Parking",
@@ -1080,6 +1386,9 @@
     {
         "park_name": "Naranga Avenue Reserve",
         "suburb": "Engadine",
+        "park_address": "20R Naranga Avenue, Engadine",
+        "lat": -34.07225,
+        "lng": 151.00886,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/naranga-avenue-reserve-engadine",
         "facilities": [
             "Playground"
@@ -1088,6 +1397,9 @@
     {
         "park_name": "Nixon Place Reserve",
         "suburb": "Bonnet Bay",
+        "park_address": "10 Nixon Pl, Bonnet bay",
+        "lat": -34.0075,
+        "lng": 151.051982,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/nixon-place-reserve-bonnet-bay",
         "facilities": [
             "Playground"
@@ -1096,6 +1408,9 @@
     {
         "park_name": "North Caringbah Oval",
         "suburb": "Caringbah",
+        "park_address": "1 Dianella Street, Caringbah",
+        "lat": -34.037099,
+        "lng": 151.122835,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/sporting-facilities/httpssutherland-shire-council.matrix.squiz.cloudplay-and-explorethe-outdoorsall-parks-reservesNorth20Oval",
         "facilities": [
             "Floodlights",
@@ -1107,6 +1422,9 @@
     {
         "park_name": "Nyrang Place Reserve",
         "suburb": "Kirrawee",
+        "park_address": "1 Nyrang Pl, Kirrawee",
+        "lat": -34.037605,
+        "lng": 151.068754,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/nyrang-place-reserve-kirrawee",
         "facilities": [
             "Playground"
@@ -1115,6 +1433,9 @@
     {
         "park_name": "Oak Park",
         "suburb": "Cronulla",
+        "park_address": "156-164 Ewos Parade, Cronulla",
+        "lat": -34.069564,
+        "lng": 151.155716,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/oak-park-cronulla",
         "facilities": [
             "BBQ",
@@ -1130,6 +1451,9 @@
     {
         "park_name": "Old Bush Road Reserve",
         "suburb": "Yarrawarrah",
+        "park_address": "1R Old Bush Road, Yarrawarrah",
+        "lat": -34.05215,
+        "lng": 151.02844,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/old-bush-road-reserve,-yarrawarrah",
         "facilities": [
             "Dogs on leash",
@@ -1141,6 +1465,9 @@
     {
         "park_name": "Old Ferry Road Reserve",
         "suburb": "Illawong",
+        "park_address": "7R Old Ferry Road, Illawong",
+        "lat": -33.99316,
+        "lng": 151.04122,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/old-ferry-road-reserve-illawong",
         "facilities": [
             "Boat ramp",
@@ -1153,6 +1480,9 @@
     {
         "park_name": "Old School Park",
         "suburb": "Gymea Bay",
+        "park_address": "250 Gymea Bay Road, Gymea",
+        "lat": -34.048119,
+        "lng": 151.086588,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/old-school-park-gymea",
         "facilities": [
             "Bubbler",
@@ -1167,6 +1497,9 @@
     {
         "park_name": "Oyster Bay Oval",
         "suburb": "Oyster Bay",
+        "park_address": "88R Como Rd, Oyster bay",
+        "lat": -34.005377,
+        "lng": 151.082612,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/oyster-bay-oval-oyster-bay",
         "facilities": [
             "Bubbler",
@@ -1184,6 +1517,9 @@
     {
         "park_name": "Pambula Road Reserve",
         "suburb": "Engadine",
+        "park_address": "Pambula Rd, Engadine",
+        "lat": -34.0510264,
+        "lng": 151.0203,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/pambula-road-reserve-engadine",
         "facilities": [
             "Parking",
@@ -1193,6 +1529,9 @@
     {
         "park_name": "Park Lane Playground",
         "suburb": "Caringbah",
+        "park_address": "178-184 Willarong Rd, Caringbah",
+        "lat": -34.041884,
+        "lng": 151.120087,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/park-lane-playground-caringbah",
         "facilities": [
             "Parking",
@@ -1203,6 +1542,9 @@
     {
         "park_name": "Peace Park and Chuo City Garden",
         "suburb": "Sutherland",
+        "park_address": "22 Eton Street, Sutherland",
+        "lat": -34.031132,
+        "lng": 151.059525,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/peace-park-and-chuo-city-garden-sutherland",
         "facilities": [
             "Parking"
@@ -1211,6 +1553,9 @@
     {
         "park_name": "Pendlebury Park",
         "suburb": "Loftus",
+        "park_address": "19-27 Orchid Street, Loftus",
+        "lat": -34.051136,
+        "lng": 151.044113,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/pendlebury-park",
         "facilities": [
             "Floodlights",
@@ -1221,6 +1566,9 @@
     {
         "park_name": "Portmadoc Drive Reserve",
         "suburb": "Menai",
+        "park_address": "71 Portmadoc Dr, Menai",
+        "lat": -34.0092861,
+        "lng": 151.0219634,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/portmadoc-drive-reserve-menai",
         "facilities": [
             "Playground"
@@ -1229,6 +1577,9 @@
     {
         "park_name": "Premier Street Reserve",
         "suburb": "Gymea",
+        "park_address": "5 Premier St, Gymea",
+        "lat": -34.0339121,
+        "lng": 151.0876672,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/premier-street-reserve-gymea",
         "facilities": [
             "Playground"
@@ -1237,6 +1588,9 @@
     {
         "park_name": "Prices Circuit Reserve",
         "suburb": "Woronora",
+        "park_address": "2 Prices Circuit, Woronora",
+        "lat": -34.02084,
+        "lng": 151.048211,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/prices-circuit-reserve-woronora",
         "facilities": [
             "Parking",
@@ -1246,6 +1600,9 @@
     {
         "park_name": "Prince Edward Park",
         "suburb": "Woronora",
+        "park_address": "Prince Edward Park Road, Woronora",
+        "lat": "",
+        "lng": "",
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/prince-edward-park-woronora",
         "facilities": [
             "BBQ",
@@ -1261,6 +1618,9 @@
     {
         "park_name": "Rita Harris Park",
         "suburb": "Sutherland",
+        "park_address": "6-8 Leonay Street, Sutherland",
+        "lat": -34.02663,
+        "lng": 151.05842,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/leonay-street-reserve-sutherland",
         "facilities": [
             "Fenced",
@@ -1271,6 +1631,9 @@
     {
         "park_name": "Robin Place Reserve",
         "suburb": "Caringbah",
+        "park_address": "18R Robin Place Reserve, Caringbah",
+        "lat": -34.048605,
+        "lng": 151.124794,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/robin-place-reserve-caringbah",
         "facilities": [
             "Bubbler",
@@ -1284,6 +1647,9 @@
     {
         "park_name": "Rocklea Crescent Reserve",
         "suburb": "Sylvania",
+        "park_address": "48 Edward Street, Sylvania",
+        "lat": -34.01637,
+        "lng": 151.08973,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/rocklea-crescent-reserve-sylvania",
         "facilities": [
             "No dogs",
@@ -1294,6 +1660,9 @@
     {
         "park_name": "Roger Summers Memorial Lions Park",
         "suburb": "Bundeena",
+        "park_address": "1-3 Bundeena Dr, Bundeena",
+        "lat": -34.084349,
+        "lng": 151.151241,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/roger-summers-memorial-lions-park-bundeena",
         "facilities": [
             "BBQ",
@@ -1306,6 +1675,9 @@
     {
         "park_name": "Ross Reserve",
         "suburb": "Bangor",
+        "park_address": "37 Pyree Street, Bangor",
+        "lat": -34.0203711,
+        "lng": 151.0300314,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/ross-reserve-bangor",
         "facilities": [
             "Parking",
@@ -1317,6 +1689,9 @@
     {
         "park_name": "Salmon Haul Reserve",
         "suburb": "Cronulla",
+        "park_address": "Gowrie Street, Cronulla",
+        "lat": -34.0722745,
+        "lng": 151.15320670000006,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/salmon-haul-reserve-cronulla",
         "facilities": [
             "Bubbler",
@@ -1331,6 +1706,9 @@
     {
         "park_name": "Sandy Point Reserve",
         "suburb": "Sandy Point",
+        "park_address": "200 St George Crescent, Sandy point",
+        "lat": -33.9804352,
+        "lng": 150.9933143,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/sandy-point-reserve-sandy-point",
         "facilities": [
             "Dogs on leash",
@@ -1342,6 +1720,9 @@
     {
         "park_name": "Scribbins Park",
         "suburb": "Miranda",
+        "park_address": "5R - 7R Jinatong Street, Miranda",
+        "lat": -34.02955,
+        "lng": 151.09538,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/sandy-point-reserve,-sandy-point",
         "facilities": [
             "Dogs on leash",
@@ -1353,6 +1734,9 @@
     {
         "park_name": "Scylla Bay Oval",
         "suburb": "Como",
+        "park_address": "52 Cremona Road, Como",
+        "lat": -34.0003269,
+        "lng": 151.0676372,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/scylla-bay-reserve-como",
         "facilities": [
             "Dogs on leash",
@@ -1366,6 +1750,9 @@
     {
         "park_name": "Seymour Shaw Park",
         "suburb": "Miranda",
+        "park_address": "244 The Boulevarde, Miranda",
+        "lat": -34.029907,
+        "lng": 151.102929,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/seymour-shaw-park",
         "facilities": [
             "Bubbler",
@@ -1379,6 +1766,9 @@
     {
         "park_name": "Shelly Park",
         "suburb": "Cronulla",
+        "park_address": "70-110 Ewos Parade, Cronulla",
+        "lat": -34.0635713,
+        "lng": 151.1540078,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/shelly-park-cronulla",
         "facilities": [
             "BBQ",
@@ -1394,6 +1784,9 @@
     {
         "park_name": "Shiprock Reserve",
         "suburb": "Port Hacking",
+        "park_address": "2 Shiprock Rd, Port hacking",
+        "lat": -34.068804,
+        "lng": 151.129453,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/shiprock-reserve-port-hacking",
         "facilities": [
             "Walking trail"
@@ -1402,6 +1795,9 @@
     {
         "park_name": "Sierra Road Reserve",
         "suburb": "Engadine",
+        "park_address": "23 Sierra Rd, Engadine",
+        "lat": -34.051259,
+        "lng": 150.999152,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/sierra-road-reserve-engadine",
         "facilities": [
             "Playground"
@@ -1410,6 +1806,9 @@
     {
         "park_name": "Slessor Place Reserve",
         "suburb": "Heathcote",
+        "park_address": "1 Slessor Place, Heathcote",
+        "lat": -34.0924711,
+        "lng": 150.9985708,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/slessor-place-reserve-heathcote",
         "facilities": [
             "Dogs on leash",
@@ -1422,6 +1821,9 @@
     {
         "park_name": "Sunnyside Avenue Reserve",
         "suburb": "Caringbah",
+        "park_address": "12 Sunnyside Avenue, Caringbah",
+        "lat": -34.040138,
+        "lng": 151.12251,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/sunnyside-avenue-reserve-caringbah",
         "facilities": [
             "BBQ",
@@ -1433,6 +1835,9 @@
     {
         "park_name": "Sutherland Shire Centenary Park",
         "suburb": "Miranda",
+        "park_address": "66-74 Karimbla Road, Miranda",
+        "lat": -34.037268,
+        "lng": 151.10309670000004,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/sutherland-shire-centenary-park-miranda",
         "facilities": [
             "BBQ",
@@ -1450,6 +1855,9 @@
     {
         "park_name": "Swallow Rock Reserve",
         "suburb": "Grays Point",
+        "park_address": "20R Swallow Rock Drive, Grays Point",
+        "lat": -34.0603874,
+        "lng": 151.0810025,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/swallow-rock-reserve-grays-point",
         "facilities": [
             "BBQ",
@@ -1462,6 +1870,9 @@
     {
         "park_name": "Sylvania Road North Reserve",
         "suburb": "Sylvania",
+        "park_address": "24R Sylvania Road, Sylvania",
+        "lat": -34.0163292,
+        "lng": 151.0964739,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/sylvania-road-north-reserve",
         "facilities": [
             "Playground"
@@ -1470,6 +1881,9 @@
     {
         "park_name": "Taren Point Shorebird Reserve",
         "suburb": "Taren Point",
+        "park_address": "66 Woodlands Rd, Taren point",
+        "lat": -34.014698,
+        "lng": 151.124962,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/taren-point-shorebird-reserve-taren-point",
         "facilities": [
             "No dogs",
@@ -1479,6 +1893,9 @@
     {
         "park_name": "Tea Tree Place Reserve",
         "suburb": "Kirrawee",
+        "park_address": "1 Kiewa Place, Kirrawee",
+        "lat": -34.023539,
+        "lng": 151.072225,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/tea-tree-place-reserve-kirrawee",
         "facilities": [
             "Playground"
@@ -1487,6 +1904,9 @@
     {
         "park_name": "The Flat Reserve",
         "suburb": "Sylvania",
+        "park_address": "2R Mowbray Street, Sylvania",
+        "lat": -34.007143,
+        "lng": 151.1104925,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/the-flat-reserve-sylvania",
         "facilities": [
             "BBQ",
@@ -1497,6 +1917,9 @@
     {
         "park_name": "Third Avenue Reserve",
         "suburb": "Loftus",
+        "park_address": "6R Third Avenue, Loftus",
+        "lat": -34.0397556,
+        "lng": 151.0501684,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/third-avenue-reserve-loftus",
         "facilities": [
             "Dogs on leash",
@@ -1508,6 +1931,9 @@
     {
         "park_name": "Tonkin Oval",
         "suburb": "Cronulla",
+        "park_address": "1 Tonkin Street, Cronulla",
+        "lat": -34.054964,
+        "lng": 151.150662,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/tonkin-oval",
         "facilities": [
             "Boat ramp",
@@ -1521,6 +1947,9 @@
     {
         "park_name": "Turriell Bay Road Reserve",
         "suburb": "Lilli Pilli",
+        "park_address": "2R Turriell Bay Road, Lilli Pilli",
+        "lat": -34.0637186,
+        "lng": 151.1182333,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/turriell-bay-road-reserve-lilli-pilli",
         "facilities": [
             "Basketball",
@@ -1537,6 +1966,9 @@
     {
         "park_name": "Veno Street Reserve",
         "suburb": "Heathcote",
+        "park_address": "1331 Princes Highway, Heathcote",
+        "lat": -34.086541,
+        "lng": 151.00838,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/veno-street-reserve-heathcote",
         "facilities": [
             "Parking",
@@ -1547,6 +1979,9 @@
     {
         "park_name": "Wanda Reserve",
         "suburb": "Cronulla",
+        "park_address": "Mitchell Road, Cronulla",
+        "lat": -34.0423981,
+        "lng": 151.1619179,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/wanda-reserve-cronulla",
         "facilities": [
             "Parking"
@@ -1555,6 +1990,9 @@
     {
         "park_name": "Ward Crescent Reserve",
         "suburb": "Oyster Bay",
+        "park_address": "1R-7R Ward Crescent, Oyster bay",
+        "lat": -34.00211,
+        "lng": 151.09005,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/ward-crescent-reserve-oyster-bay",
         "facilities": [
             "Dogs on leash",
@@ -1564,6 +2002,9 @@
     {
         "park_name": "Wonga Road Reserve",
         "suburb": "Yowie Bay",
+        "park_address": "79 Attunga Road, Yowie bay",
+        "lat": -34.049085,
+        "lng": 151.10394,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/wonga-road-reserve-yowie-bay",
         "facilities": [
             "Playground"
@@ -1572,6 +2013,9 @@
     {
         "park_name": "Woolooware Oval",
         "suburb": "Woolooware",
+        "park_address": "55 Caronia Ave, Woolooware",
+        "lat": -34.0501447,
+        "lng": 151.1426001,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/woolooware-oval-woolooware",
         "facilities": [
             "Dogs on leash",
@@ -1586,6 +2030,9 @@
     {
         "park_name": "Wylie Street Reserve",
         "suburb": "Kirrawee",
+        "park_address": "6R Wylie Street, Kirrawee",
+        "lat": -34.02563,
+        "lng": 151.07044,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/waratah-park,-sutherland",
         "facilities": [
             "Dogs on leash",
@@ -1595,6 +2042,9 @@
     {
         "park_name": "Yarra Vista Court Reserve",
         "suburb": "Yarrawarrah",
+        "park_address": "13 Yarra Vista Court, Yarrawarrah",
+        "lat": -34.0557,
+        "lng": 151.03666,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/woronora-road-reserve,-engadine",
         "facilities": [
             "Dogs on leash",
@@ -1605,6 +2055,9 @@
     {
         "park_name": "Yarrawarrah Reserve",
         "suburb": "Yarrawarrah",
+        "park_address": "47 Wheatley Road, Yarrawarrah",
+        "lat": -34.057094,
+        "lng": 151.0331498,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/sporting-facilities/httpssutherland-shire-council.matrix.squiz.cloudplay-and-explorethe-outdoorsall-parks-reservesYarrawarrah20Reserve2C20Yarrawarrah",
         "facilities": [
             "Floodlights",
@@ -1618,6 +2071,9 @@
     {
         "park_name": "Yumbayumba Park",
         "suburb": "Kirrawee",
+        "park_address": "168 Oak Road, Kirrawee",
+        "lat": -34.03523,
+        "lng": 151.07117,
         "canonical_link": "https://www.sutherlandshire.nsw.gov.au/play-and-explore/the-outdoors/parks-and-reserves/all-parks-reserves/Yumbayumba-Park",
         "facilities": [
             "Bubbler",
