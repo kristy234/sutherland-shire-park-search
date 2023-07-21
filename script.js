@@ -62,6 +62,38 @@ function selectOptionByText(text, selectElement) {
     }
 }
 
+function createParkItem(parkData) {
+    const parkItemDiv = document.createElement('div');
+    parkItemDiv.classList.add('park-item');
+
+    // Park content (name, address, facilities)
+    const parkContentDiv = document.createElement('div');
+    parkContentDiv.classList.add('park-content');
+
+    const parkNameHeading = document.createElement('h3');
+    parkNameHeading.classList.add('park-name');
+    parkNameHeading.textContent = parkData.park_name;
+    parkContentDiv.appendChild(parkNameHeading);
+
+    const parkAddressPara = document.createElement('p');
+    parkAddressPara.classList.add('park-address');
+    parkAddressPara.textContent = parkData.park_address;
+    parkContentDiv.appendChild(parkAddressPara);
+
+    const parkFacilitiesList = document.createElement('ul');
+    parkFacilitiesList.classList.add('park-facilities');
+    parkData.facilities.forEach(facility => {
+    const facilityItem = document.createElement('li');
+    facilityItem.textContent = facility;
+    parkFacilitiesList.appendChild(facilityItem);
+    });
+    parkContentDiv.appendChild(parkFacilitiesList);
+
+    parkItemDiv.appendChild(parkContentDiv);
+
+    return parkItemDiv;
+}
+
 function applyFilters(parksData) {
     const facilityFilter = document.getElementById(FILTER_FACILITY_ID);
     const suburbFilter = document.getElementById(FILTER_SUBURB_ID);
@@ -87,30 +119,8 @@ function applyFilters(parksData) {
 
     if (sortedParks.length > 0) {
         sortedParks.forEach(park => {
-            const listItem = document.createElement('li');
-            listItem.classList.add('park-item');
-
-            const parkName = document.createElement('a');
-            parkName.classList.add('park-name');
-            parkName.textContent = park.park_name + ' - ';
-            parkName.href = park.canonical_link;
-            listItem.appendChild(parkName);
-
-            const parkSuburb = document.createElement('span');
-            parkSuburb.classList.add('park-suburb');
-            parkSuburb.textContent = park.suburb;
-            parkName.appendChild(parkSuburb);
-
-            const facilityList = document.createElement('ul');
-            facilityList.classList.add('park-facilities');
-            park.facilities.forEach(facility => {
-                const facilityItem = document.createElement('li');
-                facilityItem.textContent = facility;
-                facilityList.appendChild(facilityItem);
-            });
-            listItem.appendChild(facilityList);
-
-            parkList.appendChild(listItem);
+            const parkItem = createParkItem(park);
+            parkList.appendChild(parkItem);
         });
     } else {
         const noResults = document.createElement('li');
