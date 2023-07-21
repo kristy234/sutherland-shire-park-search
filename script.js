@@ -62,36 +62,14 @@ function selectOptionByText(text, selectElement) {
     }
 }
 
-function createParkItem(parkData) {
-    const parkItemDiv = document.createElement('div');
-    parkItemDiv.classList.add('park-item');
-
-    // Park content (name, address, facilities)
-    const parkContentDiv = document.createElement('div');
-    parkContentDiv.classList.add('park-content');
-
-    const parkNameHeading = document.createElement('h3');
-    parkNameHeading.classList.add('park-name');
-    parkNameHeading.textContent = parkData.park_name;
-    parkContentDiv.appendChild(parkNameHeading);
-
-    const parkAddressPara = document.createElement('p');
-    parkAddressPara.classList.add('park-address');
-    parkAddressPara.textContent = parkData.park_address;
-    parkContentDiv.appendChild(parkAddressPara);
-
-    const parkFacilitiesList = document.createElement('ul');
-    parkFacilitiesList.classList.add('park-facilities');
-    parkData.facilities.forEach(facility => {
-    const facilityItem = document.createElement('li');
-    facilityItem.textContent = facility;
-    parkFacilitiesList.appendChild(facilityItem);
-    });
-    parkContentDiv.appendChild(parkFacilitiesList);
-
-    parkItemDiv.appendChild(parkContentDiv);
-
-    return parkItemDiv;
+function loadParkTemplate(callback) {
+    fetch('park-template.hbs')
+        .then(response => response.text())
+        .then(templateString => {
+            const template = Handlebars.compile(templateString);
+            callback(template);
+        })
+        .catch(error => console.error(error));
 }
 
 function applyFilters(parksData) {
@@ -118,9 +96,11 @@ function applyFilters(parksData) {
     parkList.innerHTML = '';
 
     if (sortedParks.length > 0) {
-        sortedParks.forEach(park => {
-            const parkItem = createParkItem(park);
-            parkList.appendChild(parkItem);
+        loadParkTemplate(function (template) {
+            sortedParks.forEach(park => {
+                const parkHTML = template(park);
+                parkList.insertAdjacentHTML('beforeend', parkHTML);
+            });
         });
     } else {
         const noResults = document.createElement('li');
