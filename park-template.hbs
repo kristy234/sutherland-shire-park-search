@@ -1,11 +1,14 @@
 <div class="park-item">
   <div class="park-content">
     <h3 class="park-name">{{park_name}}</h3>
-    <p class="park-address">{{park_address}}</p>
     <ul class="park-facilities">
       {{#each facilities}}
       <li>{{this}}</li>
       {{/each}}
     </ul>
+    <p class="park-address">{{park_address}}</p>
+  </div>
+  <div class="park-map-container">
+    <div class="park-map" data-lat="{{lat}}" data-lng="{{lng}}"></div>
   </div>
 </div>

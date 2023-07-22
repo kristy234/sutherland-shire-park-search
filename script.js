@@ -62,12 +62,28 @@ function selectOptionByText(text, selectElement) {
     }
 }
 
+function initializeMaps() {
+    const parkMaps = document.getElementsByClassName('park-map');
+    Array.from(parkMaps).forEach(parkMap => {
+        const lat = parkMap.dataset.lat;
+        const lng = parkMap.dataset.lng;
+        const map = L.map(parkMap).setView([lat, lng], 15);
+
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '&copy; OpenStreetMap contributors'
+        }).addTo(map);
+
+        L.marker([lat, lng]).addTo(map);
+    });
+}
+
 function loadParkTemplate(callback) {
     fetch('park-template.hbs')
         .then(response => response.text())
         .then(templateString => {
             const template = Handlebars.compile(templateString);
             callback(template);
+            initializeMaps();
         })
         .catch(error => console.error(error));
 }
